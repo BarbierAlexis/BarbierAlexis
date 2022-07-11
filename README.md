@@ -10,6 +10,6 @@
 |------------------|------------|------------|-------|--------|---------|--------|--------|-------|---------|-----|
 
 Trained in Javascript, NodeJs and MySql at WildCodeSchool of Nantes, i continue to learn this technologies for 
-improve myself 💪. <br/>
-Now i am Fullstack developper at Izicamp.fr and i prepare for it the **"Concepteur Développeur d'Applications"** title 🚀
+improve myself 💪 <br/>
+Now i am Fullstack developper at SEIF 🦍💛🚀
 
